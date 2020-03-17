@@ -1,27 +1,3 @@
 # GOFpatterns
 
-- Abstract factory 
-- Adapter
-- Bridge
 - Builder
-- Chain of responsibility
-- Command
-- Composite
-- Decorator
-- Delegate
-- Facade
-- Factory method
-- Flyweight
-- Interpreter
-- Iterator
-- Mediator
-- Memento
-- Observer
-- Prototype
-- Proxy
-- Servlet
-- Singleton
-- State
-- Strategy
-- Template method
-- Visitor
