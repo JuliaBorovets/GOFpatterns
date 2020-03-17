@@ -1,27 +1,27 @@
 # GOFpatterns
 
-- absttract factory 
-- adapter
-- bridge
-- builder
-- chain of responsibility
-- command
-- composite
-- decorator
-- delegate
-- facade
-- factory method
-- flyweight
-- interpreter
-- iterator
-- mediator
-- memento
-- observer
-- prototype
-- proxy
-- servlet
-- singleton
-- state
-- strategy
-- template method
-- visitor
+- Abstract factory 
+- Adapter
+- Bridge
+- Builder
+- Chain of responsibility
+- Command
+- Composite
+- Decorator
+- Delegate
+- Facade
+- Factory method
+- Flyweight
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- Prototype
+- Proxy
+- Servlet
+- Singleton
+- State
+- Strategy
+- Template method
+- Visitor
