@@ -8,3 +8,4 @@
 - Adapter
 - Bridge
 - Facade
+- Delegate
