@@ -10,3 +10,4 @@
 - Facade
 - Delegate
 - Composite
+- Decorator
