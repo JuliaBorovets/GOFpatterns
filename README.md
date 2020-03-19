@@ -11,3 +11,4 @@
 - Delegate
 - Composite
 - Decorator
+- Proxy
