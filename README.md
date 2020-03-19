@@ -6,3 +6,4 @@
 - Prototype
 - Singleton
 - Adapter
+- Bridge
