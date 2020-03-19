@@ -7,3 +7,4 @@
 - Singleton
 - Adapter
 - Bridge
+- Facade
