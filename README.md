@@ -9,3 +9,4 @@
 - Bridge
 - Facade
 - Delegate
+- Composite
