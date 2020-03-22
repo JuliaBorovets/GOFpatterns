@@ -20,4 +20,5 @@
 - Mediator
 - Observer
 - Template method
+- Strategy
 
