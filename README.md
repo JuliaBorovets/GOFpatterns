@@ -14,3 +14,4 @@
 - Proxy
 - Flyweight
 - Chain of responsibility
+- Command
