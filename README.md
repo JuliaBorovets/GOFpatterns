@@ -12,3 +12,5 @@
 - Composite
 - Decorator
 - Proxy
+- Flyweight
+- Chain of responsibility
