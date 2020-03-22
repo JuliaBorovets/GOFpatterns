@@ -17,3 +17,5 @@
 - Command
 - Memento
 - State
+- Mediator
+
