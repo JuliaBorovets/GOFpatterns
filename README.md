@@ -18,4 +18,5 @@
 - Memento
 - State
 - Mediator
+- Observer
 
