@@ -19,4 +19,5 @@
 - State
 - Mediator
 - Observer
+- Template method
 
