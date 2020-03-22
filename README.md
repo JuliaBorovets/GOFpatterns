@@ -15,3 +15,4 @@
 - Flyweight
 - Chain of responsibility
 - Command
+- Memento
