@@ -16,3 +16,4 @@
 - Chain of responsibility
 - Command
 - Memento
+- State
